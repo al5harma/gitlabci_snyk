@@ -4,7 +4,7 @@ Repo for configs for integrating Snyk Scans with Gitlab CI
 GitlabCI <> Snyk integration demo
 Repo to hold templates for GitlabCI config.yml files to work with Snyk security scans.
 
-Elaborate doc here - [WIP](https://docs.google.com/document/d/1DJ08UiFYADkdGBYi0o3oEQFuT551ne_GvmMSPNfCSkU/edit#heading=h.xkolvokjm74d)
+Elaborate doc here - WIP
 
 **Pre-requisite**
 
